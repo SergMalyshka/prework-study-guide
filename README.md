@@ -1,4 +1,4 @@
-# <Prework Penn BootCamp>
+# Prework Penn BootCamp
 
 ## Description
 
